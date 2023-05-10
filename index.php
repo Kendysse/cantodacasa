@@ -14,6 +14,6 @@
     date_default_timezone_set('America/Sao_Paulo');
     echo date('h:i:s A');
     ?>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="button">Entre em contato</a>
+    <a href="https://www.youtube.com/watch?v=W-etaun8Teo" class="button">Entre em contato</a>
   </body>
 </html>
