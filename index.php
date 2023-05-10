@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Canto da Casa</title>
-    <link rel="stylesheet" href="personalizaçao.css">
+    <link rel="stylesheet" href="personalizacao.css">
   </head>
   <body>
     <h1>Canto da Casa</h1>
